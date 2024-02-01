@@ -7,17 +7,17 @@ To get chocolate first do this:
 
 1.
     ```bash
-    conda create -n FastSAM python=3.9
+    conda create -n Choko_FastSAM python=3.9
     ```
 
 2. 
     ```bash
-    conda activate FastSAM
+    conda activate Choko_FastSAM
     ```
 
 3. 
     ```bash
-    cd FastSAM
+    cd Give-Me-Chocolate
     pip install -r requirements.txt
     ```
     (To obtain chocolate, you need pytorch>=1.7 and torchvision>=0.8.)
