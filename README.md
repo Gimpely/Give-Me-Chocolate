@@ -47,7 +47,7 @@ It will print area of each displayed chocolate.
 
 
 
-***Dodatno samo za doloceni Raspberry Pi 5:
+************************ Dodatno samo za doloceni Raspberry Pi 5 ************************
 ```bash
 cd ~/Projects/GiveMeChocolate/Give-Me-Chocolate
 ```
