@@ -39,6 +39,14 @@ If you want to change the area range of chocolate, open GetChocoArea.py and put 
 It will print area of each displayed chocolate.
 
 
+
+
+
+
+
+
+
+
 ***Dodatno samo za doloceni Raspberry Pi 5:
 ```bash
 cd ~/Projects/GiveMeChocolate/Give-Me-Chocolate
