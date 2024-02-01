@@ -1,5 +1,8 @@
 # Give Me Chocolate
 
+Chocolate detector. Runs on CPU, maybe on GPU if you have it. 
+Takes images of chocolate and segments seperate pieces and returns the centers for a robot to pick it and then to eat it.
+
 To get chocolate first do this:
 
 1.
@@ -23,6 +26,19 @@ To get chocolate first do this:
     ```bash
     pip install git+https://github.com/openai/CLIP.git
     ```
-    
+
+ Then to get chocolate centers run:
+  ```bash
+    python GetBestChoco.py
+  ```
+
+If you want to change the area range of chocolate, open GetChocoArea.py and put desired image in IMAGE_PATH. Then run:
+ ```bash
+    python GetChocoArea.py
+  ```
+It will print area of each displayed chocolate.
+
+
 Adapted from: [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
 
+The End
