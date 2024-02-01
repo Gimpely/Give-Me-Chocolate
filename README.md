@@ -31,7 +31,7 @@ Now you're all set to get all the chocolate.
 
 ## Acknowledgments
 
-- FastSAM: [Link to FastSAM Repository](#)
+- FastSAM: [[Link to FastSAM Repository](https://github.com/CASIA-IVA-Lab/FastSAM?tab=readme-ov-file)https://github.com/CASIA-IVA-Lab/FastSAM?tab=readme-ov-file](#)
 
 
 Happy chocolate hunting!
